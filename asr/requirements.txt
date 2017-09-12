@@ -1,0 +1,9 @@
+pip install SpeechRecognition
+pip install pyaudio
+pip install httplib2
+pip install thrift
+pip install werkzeug
+pip install numpy
+pip install pandas
+pip install sklearn
+pip install scipy

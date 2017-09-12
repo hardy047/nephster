@@ -1,0 +1,3 @@
+pip install nltk
+pip install dbus-python
+pip install redlib
