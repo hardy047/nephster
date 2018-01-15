@@ -1,3 +1,4 @@
 playlist/
 musicplayer/lucidaservice
 musicplayer/lucidatypes
+*.pyc
